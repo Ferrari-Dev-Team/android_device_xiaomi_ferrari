@@ -33,7 +33,7 @@ on early-init
 
 on init
     # Preload the BoringSSL wrapper
-    export LD_SHIM_LIBS "libboringssl-compat.so"
+    export LD_PRELOAD "libboringssl-compat.so"
 
     # Set permissions for persist partition
     mkdir /persist 0771 system system
