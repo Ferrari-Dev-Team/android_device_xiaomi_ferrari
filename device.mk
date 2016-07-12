@@ -209,6 +209,10 @@ PRODUCT_PACKAGES += \
     libstlport \
     libmm-qcamera
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
+
 # Sensor HAL
 PRODUCT_PACKAGES += \
     sensors.msm8916
