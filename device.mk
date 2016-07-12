@@ -42,6 +42,7 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     chargeonlymode \
     init.qcom.rc \
+    init.qcom.power.rc \
     init.target.rc \
     init.qcom.usb.rc \
     ueventd.qcom.rc \
