@@ -206,7 +206,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8916 \
-    libboringssl-compat \
     libstlport \
     libmm-qcamera
 
