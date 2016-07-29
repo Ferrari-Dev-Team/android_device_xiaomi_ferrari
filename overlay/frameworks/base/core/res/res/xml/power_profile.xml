@@ -21,7 +21,7 @@
     <item name="none">0</item>
     <item name="screen.on">100</item>
     <item name="bluetooth.active">142</item>
-    <item name="bluetooth.on">1</item>
+    <item name="bluetooth.on">0.01</item>
     <item name="bluetooth.at">35690</item>
     <item name="screen.full">240</item>
     <item name="wifi.on">6</item>
