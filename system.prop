@@ -89,8 +89,8 @@ ro.telephony.call_ring.multiple=false
 ro.telephony.default_network=9,9
 
 # Netmgrd
-ro.use_data_netmgrd=true
-persist.data.netmgrd.qos.enable=true
+ro.use_data_netmgrd=false
+persist.data.netmgrd.qos.enable=false
 
 # Time-Services
 persist.timed.enable=true
